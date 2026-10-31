@@ -1,5 +1,9 @@
 # yadgar
 
+[![yaadgaar](https://img.shields.io/github/v/tag/yadgarhq/chart?sort=semver&label=yaadgaar)](https://github.com/yadgarhq/chart/tags)
+[![client](https://img.shields.io/github/v/tag/yadgarhq/yadgar?sort=semver&label=client)](https://github.com/yadgarhq/yadgar/tags)
+[![gateway](https://img.shields.io/github/v/tag/yadgarhq/gateway?sort=semver&label=gateway)](https://github.com/yadgarhq/gateway/tags)
+
 yadgar (Persian for "memento, keepsake") is a persistent memory engine for AI
 coding agents that works with any MCP client. This organisation builds its
 successor architecture: Rust, one repository per module, deployed as
