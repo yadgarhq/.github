@@ -1,6 +1,6 @@
 # yadgar
 
-[![yaadgaar](https://img.shields.io/github/v/tag/yadgarhq/chart?sort=semver&label=yaadgaar)](https://github.com/yadgarhq/chart/tags)
+[![chart](https://img.shields.io/github/v/tag/yadgarhq/chart?sort=semver&label=yaadgaar)](https://github.com/yadgarhq/chart/tags)
 [![client](https://img.shields.io/github/v/tag/yadgarhq/yadgar?sort=semver&label=client)](https://github.com/yadgarhq/yadgar/tags)
 [![gateway](https://img.shields.io/github/v/tag/yadgarhq/gateway?sort=semver&label=gateway)](https://github.com/yadgarhq/gateway/tags)
 
